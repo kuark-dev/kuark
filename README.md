@@ -10,6 +10,14 @@ Kuark(쿼크)는 물질을 가장 기본적인 입자인 쿼크(Quark)와 코틀
 
 TODO
 
+### v0.1.x -> v0.3.x 마이그레이션 가이드
+
+| v0.1.x (Kotlin v1.3)                                | v0.3.x (Kotlin v2)                                   |
+|-----------------------------------------------------|------------------------------------------------------|
+| `io.github.dungsil.kuark-core`                      | `io.github.dungsil.kuark:kuark-text`                 |
+| `io.github.dungsil.kuark-jvm-validation`            | `io.github.dungsil.kuark:kuark-validation`           |
+| `io.github.dungsil.kuark-jvm-validation--hibernate` | `io.github.dungsil.kuark:kuark-validation-hibernate` |
+
 ## 🙌 기여
 
 Kuark는 모든 형식의 기여를 환영합니다!
