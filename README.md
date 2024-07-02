@@ -12,11 +12,11 @@ TODO
 
 ### v0.1.x -> v0.3.x 마이그레이션 가이드
 
-| v0.1.x (Kotlin v1.3)                                | v0.3.x (Kotlin v2)                                   |
-|-----------------------------------------------------|------------------------------------------------------|
-| `io.github.dungsil.kuark-core`                      | `io.github.dungsil.kuark:kuark-text`                 |
-| `io.github.dungsil.kuark-jvm-validation`            | `io.github.dungsil.kuark:kuark-validation`           |
-| `io.github.dungsil.kuark-jvm-validation--hibernate` | `io.github.dungsil.kuark:kuark-validation-hibernate` |
+| v0.1.x (Kotlin v1.3)                                | v0.3.x (Kotlin v2)                                                    |
+|-----------------------------------------------------|:----------------------------------------------------------------------|
+| `io.github.dungsil.kuark-core`                      | `io.github.kuark-dev.kuark:kuark-text`                                |
+| `io.github.dungsil.kuark-jvm-validation`            | `io.github.kuark-dev.kuark:kuark-validation` (not released)           |
+| `io.github.dungsil.kuark-jvm-validation--hibernate` | `io.github.kuark-dev.kuark:kuark-validation-hibernate` (not released) |
 
 ## 🙌 기여
 
