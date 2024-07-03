@@ -3,7 +3,7 @@ import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 val javaVersion: String = libs.versions.java.get()
 
 plugins {
-  kotlin
+  kotlin("jvm")
 }
 
 repositories {
